@@ -7,7 +7,7 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 ```
-root 7
+root: 7
 solunda: 5,1,3,6,0,4,2
 sağında: 8,9
 ```
